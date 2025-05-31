@@ -1,2 +1,2 @@
 # fpsgame
-fps战役游戏关注b站白雪乃爱厨可以得到讲解
+fps战役游戏关注b站白雪乃爱厨可以得到讲解-一定要看备注！本项目分为exe和非exe压缩包，如果没有dll入库unity插件选择压缩包版本解压运行，如果有直接unityplayer.dll的my project.exe运行游戏逻辑wasd 移动e抬头ctrl交互左键开火右键开镜f近战g投掷
